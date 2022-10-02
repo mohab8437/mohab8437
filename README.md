@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohab8437
 - 👀 I’m interested in python and arduino
-- 🌱 I’m currently python
+- 🌱 I’m currently react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
